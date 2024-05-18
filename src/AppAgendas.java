@@ -6,7 +6,7 @@ public class AppAgendas {
         contatos.adcionarContato("Ronald", 94855252);
 
         contatos.exibirContatos();
-        contatos.atualizarnumeroContato("Ronald",9788);
+        contatos.atualizarnumeroContato("Ronnald",9788);
         contatos.exibirContatos();
        System.out.println( contatos.pesquisarPornome("Ronald"));
     }
